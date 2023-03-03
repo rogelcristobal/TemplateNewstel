@@ -8,7 +8,8 @@ module.exports = {
     extend: {
       fontFamily:{
         "lexend":["Lexend",'sans-serif'],
-        "plus":["Plus Jakarta Sans",'sans-serif']
+        "plus":["Plus Jakarta Sans",'sans-serif'],
+        "inter":["Inter","sans-serif"]
       }
     },
   },
